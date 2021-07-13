@@ -1,0 +1,13 @@
+{
+    "name": "fajarbc/learn-rabbitmq-php",
+    "description": "Learn RabbitMQ with PHP",
+    "require": {
+        "php-amqplib/php-amqplib": "^3.0"
+    },
+    "authors": [
+        {
+            "name": "fajarbc",
+            "email": "bcfajar@gmail.com"
+        }
+    ]
+}
